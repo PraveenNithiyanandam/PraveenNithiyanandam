@@ -24,4 +24,4 @@ Software Engineer
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Praveen_Nithiyanandam?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/Praveen_Nithiyanandam/)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraveenNithiyanandam&bg_color=ffd1d1&color=9e4c4c&line=9e4c4c&point=413e3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraveenNithiyanandam&bg_color=000000&color=bd2e2e&line=a94c4c&point=cc2e2e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
